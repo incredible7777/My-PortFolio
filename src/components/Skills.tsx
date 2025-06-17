@@ -1,8 +1,8 @@
 import React from 'react'
 import {
-  SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiRedux,
-  SiNodedotjs, SiExpress, SiPython, SiDjango, SiGraphql, SiMongodb, SiPostgresql, SiMysql, SiRedis,
-  SiGit, SiDocker, SiJest, SiWebpack, SiApollographql
+  SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, SiNextdotjs, SiTailwindcss,
+  SiNodedotjs, SiExpress,  SiMongodb,  SiMysql, 
+  SiGit, SiDocker,  SiApollographql
 } from 'react-icons/si'
 
 const skills = {
