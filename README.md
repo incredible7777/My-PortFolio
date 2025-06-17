@@ -58,7 +58,9 @@ npm start
 <!-- Example: -->
 <!-- ![Home Page](screenshots/homepage.png) -->
 
-![App Screenshot](public/screenshot.png)
+
+
+![App Screenshot](./Pic/Screenshot%202025-06-16%20163703.png)
 
 
 ---
