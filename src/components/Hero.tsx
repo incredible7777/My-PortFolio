@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react'
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center pt-16">
+    <section className="min-h-screen flex items-center pt-16" data-aos="fade-up">
       <div className="space-y-5">
         <h2 className="text-[#64ffda] font-apercu text-3xl sm:text-5xl flex items-center gap-2">
           Hi !

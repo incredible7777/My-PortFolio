@@ -11,6 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "bootstrap": "^5.3.6",
     "daisyui": "^5.0.43",
     "lucide-react": "^0.274.0",
@@ -20,11 +21,13 @@
     "react-icons": "^5.5.0"
   },
   "devDependencies": {
+    "@types/aos": "^3.0.7",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.4",
     "autoprefixer": "^10.4.15",
     "gh-pages": "^6.3.0",
+    "homepage": "https://incredible7777.github.io/My-PortFolio",
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.2.2",

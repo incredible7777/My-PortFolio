@@ -18,8 +18,19 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <div className="flex-shrink-0">
-            <a href="#" className="text-[#64ffda] font-fira-code text-xl font-bold">
-              {'<Welcome />'}
+            <a href="#" className="text-[#64ffda] text-xl font-bold">
+              <span className="flex items-center gap-1">
+                <span className="font-pacifico">{'‹ स्वागतम्'}</span>
+                <span
+                  className="inline-block animate-bounce-emoji"
+                  role="img"
+                  aria-label="folded hands"
+                  style={{ display: 'inline-block' }}
+                >
+                  🙏
+                </span>
+                <span>{'›'}</span>
+              </span>
             </a>
           </div>
           

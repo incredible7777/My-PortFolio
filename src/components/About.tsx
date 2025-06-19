@@ -11,10 +11,10 @@ const About = () => {
   ]
 
   return (
-    <section id="about" className="py-20">
+    <section id="about" className="py-20" data-aos="fade-up">
       <div className="space-y-8">
         <h2 className="flex items-center text-2xl sm:text-3xl font-bold text-gray-200">
-          <span className="text-[#64ffda] font-fira-code mr-2">01.</span>
+  <span className="inline-block w-3 h-3 bg-blue-600 rounded-full mr-3"></span>
           About Me
           <div className="ml-4 flex-1 h-px bg-gray-700"></div>
         </h2>

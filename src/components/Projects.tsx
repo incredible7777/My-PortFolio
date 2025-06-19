@@ -106,6 +106,7 @@ live: "https://incredible7777.github.io/Portfolio-2.0/"
         {projects.map((project, index) => (
           <div
             key={project.title}
+            data-aos="fade-up"
             className={`relative grid md:grid-cols-2 gap-8 items-center ${
               index % 2 === 0 ? 'md:text-left' : 'md:text-right md:flex-row-reverse'
             }`}
