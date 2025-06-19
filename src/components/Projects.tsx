@@ -77,7 +77,7 @@ const Projects = () => {
       live: 'https://atulyas-bakery-web.onrender.com/'
     },
     {
-    title: "Portfolio 2.0",
+    title: "Portfolio 2.0 ",
 
 description: "A personal portfolio website designed to showcase my skills, projects, and journey as a web developer. Built with a modern tech stack, it features an interactive and responsive design, smooth animations, and a user-friendly interface. The site highlights my experience, technical expertise, and passion for creating impactful digital experiences.",
 
@@ -88,9 +88,9 @@ images: [
 
 tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
 
-github: "https://github.com/incredible7777/Portfolio-2.0",
+github: "https://github.com/incredible7777/My-PortFolio",
 
-live: "https://incredible7777.github.io/Portfolio-2.0/"
+live: "https://incredible7777.github.io/My-PortFolio/"
     }
   ]
 
