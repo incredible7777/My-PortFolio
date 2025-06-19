@@ -52,7 +52,7 @@ const About = () => {
               {/* Image with overlay and hover effect */}
               <div className="relative w-full h-full rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="Pic\Atulyapic.png"
+                  src="./Pic/Atulyapic.png"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-2xl"
                 />
